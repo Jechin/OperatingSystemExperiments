@@ -8,7 +8,7 @@ Some operating system experiments
 3. [处理机管理与死锁](#处理机管理与死锁)
 4. [磁盘调度算法与优化](#磁盘调度算法与优化)
 
-## 进程调度与资源管理
+## [进程调度与资源管理](https://github.com/Jechin/OperatingSystemExperiments/blob/main/ProcessScheduling/ProcessScheduling.cpp)
 
 ### 算法
 
@@ -35,7 +35,7 @@ Some operating system experiments
 
 
 
-## 存储器管理
+## [存储器管理](https://github.com/Jechin/OperatingSystemExperiments/blob/main/MemoryAllocation/MemoryAllocation.cpp)
 
 #### 算法
 
