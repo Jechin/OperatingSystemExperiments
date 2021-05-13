@@ -58,11 +58,10 @@ Some operating system experiments
 
 ## 处理机管理与死锁
 
+#### 算法
 
-
-
-
-
+* 银行家算法的代码实现
+* 银行家算法流程图![image](https://github.com/Jechin/OperatingSystemExperiments/blob/main/src/Banker'sAlgorithm.png)
 
 ## 磁盘调度算法与优化
 
