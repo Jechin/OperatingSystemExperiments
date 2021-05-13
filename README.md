@@ -61,7 +61,18 @@ Some operating system experiments
 #### 算法
 
 * 银行家算法的代码实现
-* 银行家算法流程图![image](https://github.com/Jechin/OperatingSystemExperiments/blob/main/src/Banker'sAlgorithm.png)
+* 银行家算法流程图
+* ![image](https://github.com/Jechin/OperatingSystemExperiments/blob/main/src/Banker'sAlgorithm.png)
 
 ## 磁盘调度算法与优化
+
+#### 算法
+
+* 先来先服务FCFS（First Come First Serve）
+* 最短寻道时间优先SSTF（Shortest Seek Time First）
+* 电梯算法SCAN
+
+#### 流程图
+
+![image](https://github.com/Jechin/OperatingSystemExperiments/blob/main/src/DiskScheduling.png)
 
