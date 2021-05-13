@@ -10,7 +10,7 @@ Some operating system experiments
 
 ## 进程调度与资源管理
 
-
+![image](https://github.com/Jechin/OperatingSystemExperiments/blob/main/src/ProcessInitial.png)
 
 
 
