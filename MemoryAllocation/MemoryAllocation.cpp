@@ -24,10 +24,29 @@ typedef struct allocated_block
     allocated_block *next;
 } allocated_block;
 
+/**
+ * @brief 空闲块链表
+ */
 free_block *free_block_list;
+/**
+ * @brief 已分配的块链表
+ */
 allocated_block *allocated_block_list;
+/**
+ * @brief 当前创建进程的pid
+ * 为防止重复pid
+ * pid_number会在创建一个进程后自加一
+ */
 int pid_number;
+/**
+ * @brief 是否可以设置存储大小
+ * 0-不可以
+ * 1-可以
+ */
 int setmem_flag;
+/**
+ * @brief 当前的分配算法
+ */
 int algorithm;
 
 void Initial();
